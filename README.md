@@ -9,7 +9,7 @@ It includes tslint and prettier.
     npm i
     ```
 
-- Run in development more with
+- Run in development with
 
     ```bash
     npm run dev
